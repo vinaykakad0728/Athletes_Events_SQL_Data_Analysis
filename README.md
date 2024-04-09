@@ -34,6 +34,6 @@ Review the Results: Refer to 'Athlete Event Sql Project Queries.pdf' for a detai
 6) Acknowledgments:
 The Olympic Games dataset is sourced from Kaggle and maintained by HeeSoo37.
 
-7)Disclaimer:
+7) Disclaimer:
 This project is for educational and analytical purposes only. The analysis presented here is based on the available data and may not represent exhaustive insights into the dynamics of the Olympic Games.
 
