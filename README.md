@@ -1,4 +1,8 @@
 #Olympic Games Dataset Analysis with SQL
+
+
+
+
 Overview:
 This project analyzes the Olympic Games dataset spanning from 1896 to 2016 using SQL queries. The dataset, sourced from the Olympic Games on Kaggle, provides comprehensive information about athletes, events, and medal outcomes across various Olympic Games.
 
