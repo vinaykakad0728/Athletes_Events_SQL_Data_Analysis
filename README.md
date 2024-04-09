@@ -16,9 +16,13 @@ The dataset used in this project, athlete_events.csv, contains detailed informat
 The analysis conducted in this project covers a wide range of queries, including but not limited to:
 
 1.Medal distributions across different countries and sports.
+
 2.Trends in athlete participation over the years.
+
 3.Performance analysis of specific countries or athletes.
+
 4.Exploration of gender disparities in medal achievements.
+
 5.Identification of dominant athletes or nations in particular sports.
 
 5) Instructions:
